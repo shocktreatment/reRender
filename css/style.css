@@ -663,6 +663,7 @@ section {
 }
 .footer__item {
   border: 1px solid #f7f7f511;
+  
   width: 200px;
   display: block;
   margin: 0 auto;
