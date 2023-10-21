@@ -222,7 +222,7 @@ section {
     margin-top: 6px;
   }
   .header__post-title {
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 8px;
   }
 }
@@ -399,7 +399,7 @@ section {
   width: 50px;
 }
 .about-course__item-text {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* course-program */
@@ -663,6 +663,7 @@ section {
 }
 .footer__item {
   border: 1px solid #f7f7f511;
+  border: 1px solid #ed0808;
   width: 200px;
   display: block;
   margin: 0 auto;
