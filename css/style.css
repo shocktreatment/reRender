@@ -371,14 +371,14 @@ section {
 
 /* about-course */
 .about-course {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .about-course__title-img {
   width: 300px;
   display: block;
   margin: 0 auto;
-  margin-bottom: 20px;
+  margin-bottom: 26px;
   /* margin-top: 20px; */
 }
 .about-course__list {
@@ -390,13 +390,16 @@ section {
   justify-content: center;
   gap: 20px;
   align-items: center;
-  font-size: 16px;
+  /* font-size: 16px; */
 }
 .about-course__item:not(:last-child) {
   margin-bottom: 18px;
 }
 .about-course__item-number {
   width: 50px;
+}
+.about-course__item-text {
+  font-size: 16px;
 }
 
 /* course-program */
@@ -407,14 +410,14 @@ section {
   /* background-image: url(../img/fons/fon-one.JPG); */
   background-position: center;
   background-size: cover;
-  padding-top: 30px;
-  padding-bottom: 35px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .course-program__item {
   border-bottom: 1px solid #f7f7f5;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 .top-line {
   border-top: 1px solid #f7f7f5;
@@ -485,8 +488,8 @@ section {
 /* price */
 
 .price {
-  padding-bottom: 40px;
-  padding-top: 30px;
+  padding-bottom: 45px;
+  padding-top: 35px;
 }
 .price__title-img {
   display: block;
@@ -569,11 +572,12 @@ section {
 /* question */
 
 .question {
-  background-image: url(../img/fons/IMG_9578.JPG);
+  background-image: url(../img/fons/new.PNG);
   background-repeat: repeat;
   background-repeat: round;
 
-  padding-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
 }
 .question__container {
   border: 1px solid #f7f7f5;
